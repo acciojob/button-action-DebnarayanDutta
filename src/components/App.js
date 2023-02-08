@@ -11,7 +11,7 @@ function App() {
   return (
     <div id="main">
       <p id="para">{user}</p>
-      <button id="click" onClick={clickHandler}>Click</button>
+      <button id="click" onClick={clickHandler}> Click </button>
     </div>
   );
 }
